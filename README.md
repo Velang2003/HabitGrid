@@ -1,10 +1,10 @@
-# 📅 HabitGrid
+#  HabitGrid
 
 HabitGrid is a beautiful, offline-first habit-tracking application built with React Native and Expo. It helps you stay consistent with your daily routines by providing a clean grid layout, cumulative streak charts, and an interactive home screen widget.
 
 ---
 
-## 📥 Download & Install
+##  Download & Install
 
 You can download the latest Android `.apk` file directly and install it on your device.
 
@@ -14,7 +14,7 @@ You can download the latest Android `.apk` file directly and install it on your 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Create Habit | Home Page | Statistics |
 |:---:|:---:|:---:|
@@ -22,7 +22,7 @@ You can download the latest Android `.apk` file directly and install it on your 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Grid-Based Tracking:** A visually satisfying, GitHub-style contribution grid to see your monthly progress at a glance.
 - **Home Screen Widgets:** Check off habits directly from your Android home screen using the interactive calendar widget, or track your progress using the chart widget.
@@ -33,7 +33,7 @@ You can download the latest Android `.apk` file directly and install it on your 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - [React Native](https://reactnative.dev/) / [Expo](https://expo.dev/)
 - [Expo SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite/)
