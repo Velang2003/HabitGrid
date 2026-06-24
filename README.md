@@ -16,11 +16,9 @@ You can download the latest Android `.apk` file directly and install it on your 
 
 ## 📸 Screenshots
 
-| Home & Grid View | Stats & Charts | Home Screen Widget |
+| Create Habit | Home Page | Statistics |
 |:---:|:---:|:---:|
-| <img src="assets/Screenshots/Create Habit.jpg.jpeg?text=Home+Screen" width="250"/> | <img src="https://via.placeholder.com/250x500.png?text=Stats+Screen" width="250"/> | <img src="https://via.placeholder.com/250x500.png?text=Widget" width="250"/> |
-
-> *Tip: To update these screenshots, upload your image files to your GitHub repository (e.g., inside an `assets/screenshots/` folder) and replace the placeholder URLs in this README!*
+| <img src="assets/Screenshots/Create Habit.jpg.jpeg?text=Home+Screen" width="250"/> | <img src="assets/Screenshots/Grid.jpg.jpeg?text=Stats+Screen" width="250"/> | <img src="assets/Screenshots/Stats.jpg.jpeg?text=Widget" width="250"/> |
 
 ---
 
